@@ -2,7 +2,7 @@
 
 The File Drive Project is a web application designed to provide users with a convenient platform for storing and managing files. It offers a secure and efficient way to upload, organize, and access files from anywhere.
 
-![image](https://github.com/bbyc4kes/file-drive/assets/153362892/38c91008-c6c8-4f52-8afc-35f568a93b8d)
+![image](https://github.com/code-challenge-dev/file-drive/assets/153362892/38c91008-c6c8-4f52-8afc-35f568a93b8d)
 
 
 
@@ -15,7 +15,7 @@ The File Drive Project is a web application designed to provide users with a con
 - Delete, mark and manage files seamlessly between members in a team.
 - Responsive design for seamless access on different devices.
 
-![image](https://github.com/bbyc4kes/file-drive/assets/153362892/f50ef884-68f8-4cac-af62-b8e04c4985ff)
+![image](https://github.com/code-challenge-dev/file-drive/assets/153362892/f50ef884-68f8-4cac-af62-b8e04c4985ff)
 
 ## How to Run
 
@@ -30,11 +30,11 @@ The File Drive Project is a web application designed to provide users with a con
 
 ### <p align="center"> Or you can simply [contact me](mailto:azimov.workspace@gmail.com) to get demo access to the project due to unavailability of deploying the project, caused by the clerk demanding to have all authorized private domain with all OAuth rights to it, and as I don't own any private domain, it's not feasible to meet this requirement.</p>
 
-![image](https://github.com/bbyc4kes/file-drive/assets/153362892/e1933fc9-19a4-40a8-aaa3-a9c4a8006c25)
+![image](https://github.com/code-challenge-dev/file-drive/assets/153362892/e1933fc9-19a4-40a8-aaa3-a9c4a8006c25)
 
 ### <p align="center">Dark mode preview:</p>
 
-![image](https://github.com/bbyc4kes/file-drive/assets/153362892/81804098-bc43-432d-9f4c-71b79552418c)
+![image](https://github.com/code-challenge-dev/file-drive/assets/153362892/81804098-bc43-432d-9f4c-71b79552418c)
 
 
 
@@ -52,4 +52,4 @@ The File Drive Project is a web application designed to provide users with a con
 
 ## Contributors
 
-[Maksym Azimov](https://github.com/bbyc4kes) - Lead Developer.
+[Maksym Azimov](https://github.com/code-challenge-dev) - Lead Developer.
